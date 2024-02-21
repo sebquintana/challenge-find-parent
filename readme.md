@@ -2,6 +2,14 @@
 
 Given an input that represents a filesystem, and two files, find the closest folder that contains both file paths.
 
+## Project Structure ##
+
+- Code: src/main/java/challenge
+- Test: src/test/java/challenge
+- Lenguage: Java
+- Tests Framework: JUnit
+- Build tool: Maven
+
 ## Solution Explanation ##
 
 The findParent method receives 3 parameters:
